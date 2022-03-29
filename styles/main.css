@@ -21,7 +21,6 @@ body {
  }
  .header-logo {
     display: block;
-    background-image: url(images/icons/logo.svg);
     width: 97px;
     height: 30px;
     background-repeat: no-repeat;
@@ -46,7 +45,6 @@ body {
 }
 .social-IN {
     display: block;
-    background-image: url(images/icons/IN.svg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 30px;
@@ -54,7 +52,6 @@ body {
 }
 .social-FB {
     display: block;
-    background-image: url(images/icons/FB.svg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 30px;
